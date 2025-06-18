@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FDAEC8&center=true&vCenter=true&width=550&lines=Welcome+to+Mandala+Therapy+%F0%9F%8C%B8;A+Digital+Space+for+Calm+and+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FDAEC8&center=true&vCenter=true&width=550&lines=Welcome+to+Mandala+Therapy+%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,39 +12,34 @@
 
 ---
 
-## 🌿 About the Project
+##  About the Project
 
-> _“Art is a journey into the most beautiful version of mindfulness.”_
-
-Mandala Therapy is a frontend-only React app that encourages **digital calm and introspection**.  
-Inspired by the healing power of mandala drawing — with a dash of **soothing background music**, **affirmation writing**, and **interactive art** — this is your cozy corner on the web.
-
-✨ This project was born from a bunch of incomplete local files… now finally pushed online to share and grow 💻🪄
+ [Read the full article on Dev.to](https://dev.to/bhuvi_d/building-something-for-digital-therapy-1adh)
 
 ---
 
-## 🎨 Features
+##  Features
 
-- 🌸 **Mandala of the Day** — pick colors and bring it to life
-- ✨ **Affirmation Pad** — type & save positive thoughts in-browser
-- 🖼️ **Gallery View** — scroll through hand-drawn mandalas with music
-- 🧘 **Breathe Element** — CSS-powered pulsating circle for guided calm
-- 🌗 **Theme Switcher** — toggle between light & dark cozy modes
-- 💬 **Daily Quotes** — fetched from [ZenQuotes.io](https://zenquotes.io)
+I’d recommend checking it out - you’ll find a bunch of simple yet calming features:
+
+🌸 You can colour the Mandala of the day!  
+🌸 Write affirmations for yourself, that get saved in your browser.  
+🌸 Browse my gallery with some soothing background music  
+🌸 Switch between themes, and breathe along with the pulsating CSS element.
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
-- **Frontend:** React.js
-- **Styling:** Tailwind CSS
-- **API:** ZenQuotes.io
-- **Storage:** LocalStorage (for affirmations)
+- **Frontend:** React.js  
+- **Styling:** Tailwind CSS  
+- **API:** ZenQuotes.io  
+- **Storage:** LocalStorage (for affirmations)  
 - **Design:** Custom SVG mandalas & chill aesthetic vibes
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 git clone https://github.com/bhuvi-d/mandala-therapy.git
