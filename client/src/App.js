@@ -38,7 +38,7 @@ function App() {
     </p>
 
     <p className="mt-4">
-      <strong>There is also an embedded</strong> <span className="font-bold text-green-600">Spotify playlist</span> <strong>below to get the music going </strong><br />
+      <strong>There is also an embedded</strong> <span className="font-bold text-green-600">Spotify playlist</span> <strong>below to get the music going. </strong><br />
       Stay happy and add affirmations for yourself below — they’re stored locally in your browser and stay even after refresh!
     </p>
 
