@@ -3,15 +3,15 @@ import React, { useEffect, useState } from 'react';
 const ZenQuote = () => {
   const [quote, setQuote] = useState('');
 
-  useEffect(() => {
-    fetch('/api/today')
-
-      .then(res => res.json())
-      .then(data => {
-        setQuote(data[0].q + " — " + data[0].a);
-      })
-      .catch(err => console.error("Error fetching quote:", err));
-  }, []);
+ useEffect(() => {
+  fetch('/api/quote')
+    .then((res) => res.json())
+    .then((data) => {
+      const quoteObj = data[0];
+      setQuote(`${quoteObj.q} — ${quoteObj.a}`);
+    })
+    .catch(() => setQuote("Peace begins with a smile — Mother Teresa")); 
+}, []);
 
   return (
     <div className="text-center mt-6 text-lg font-medium text-pink-900 dark:text-white max-w-xl mx-auto px-4">
