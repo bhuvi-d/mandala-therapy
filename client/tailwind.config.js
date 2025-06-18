@@ -5,7 +5,11 @@ module.exports = {
   ],
   darkMode: 'class',
   theme: {
-    extend: {},
+    extend: {
+       animation: {
+        'fade-in': 'fadeIn 1s ease-in-out both'
+      },
+    },
   },
   plugins: [],
 }
