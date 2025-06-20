@@ -10,7 +10,7 @@ const mandalas = [
   {
     id: 2,
     title: "Mandala 2",
-    url: "https://res.cloudinary.com/dvsclqyjm/image/upload/v1750162598/WhatsApp_Image_2025-06-17_at_17.05.40_37bdb816_pvf0oy.jpg"
+    url: "https://res.cloudinary.com/dvsclqyjm/image/upload/v1750438556/ola_neuxj5.jpg"
   },
   {
     id: 3,
