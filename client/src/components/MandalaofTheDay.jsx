@@ -2,20 +2,20 @@ import React, { useState } from 'react';
 import MandalaColoringPopup from './MandalaColouringPopup'; 
 
 const mandalas = [
-  {
+   {
     id: 1,
-    title: "Mandala 1",
-    url: "https://res.cloudinary.com/dvsclqyjm/image/upload/v1750162598/WhatsApp_Image_2025-06-17_at_17.05.40_37bdb816_pvf0oy.jpg"
+    title: "Beginning",
+    url: "https://res.cloudinary.com/dvsclqyjm/image/upload/v1751213748/img1_hzmflj.jpg"
   },
   {
     id: 2,
-    title: "Mandala 2",
-    url: "https://res.cloudinary.com/dvsclqyjm/image/upload/v1750162598/WhatsApp_Image_2025-06-17_at_17.05.40_37bdb816_pvf0oy.jpg"
+    title: "Asymmetry",
+    url: "https://res.cloudinary.com/dvsclqyjm/image/upload/v1751213780/img2_vgg8ly.jpg"
   },
   {
     id: 3,
-    title: "Mandala 3",
-    url: "https://res.cloudinary.com/dvsclqyjm/image/upload/v1750162598/WhatsApp_Image_2025-06-17_at_17.05.40_37bdb816_pvf0oy.jpg"
+    title: "Void",
+    url: "https://res.cloudinary.com/dvsclqyjm/image/upload/v1751213792/img3_okxf3p.jpg"
   },
 ];
 
