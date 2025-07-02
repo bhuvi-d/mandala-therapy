@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import soothingMusic from '../assets/audio1.mp3';
-
+{/*creating a gallery of mandalas*/}
 const mandalas = [
   {
     id: 1,
